@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Pedro
+### Hi there 👋, my name is Pedro Leonardo
 #### Welcome to my simple slot machine
 ![](Slotimage.jpg)
 
