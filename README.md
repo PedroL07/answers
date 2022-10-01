@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pedro
 #### Welcome to my simple slot machine
-![Welcome to my simple slot machine](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Welcome to my simple slot machine](Slotimage.jpg)
 
 This is a simple slot machine that allows you to win a price if you match the three images. Although it may seem simple it is difficult to win a prize. GOODLUCK!
 
