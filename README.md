@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Pedro Leonardo
 #### Welcome to my simple slot machine
+https://pedroleonardo-slot-machine.netlify.app/
 ![](Slotsimage.jpg)
 
 This is a simple slot machine that allows you to win a price if you match the three images. Although it may seem simple it is difficult to win a prize. GOODLUCK!
